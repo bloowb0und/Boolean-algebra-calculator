@@ -1,0 +1,7 @@
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\bin\Debug\Boolean_Algebra_Calculator.exe.config
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\bin\Debug\Boolean_Algebra_Calculator.exe
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\bin\Debug\Boolean_Algebra_Calculator.pdb
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\obj\Debug\Boolean_Algebra_Calculator.csproj.AssemblyReference.cache
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\obj\Debug\Boolean_Algebra_Calculator.csproj.CoreCompileInputs.cache
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\obj\Debug\Boolean_Algebra_Calculator.exe
+D:\Development\C# Projects\Boolean algebra calculator\Boolean_Algebra_Calculator\Boolean_Algebra_Calculator\obj\Debug\Boolean_Algebra_Calculator.pdb
